@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  /*Produto*/
+--brand-color-dark: #60A5Fa;
+--brand-color-light: #1d4ed8;
+/*Background*/
+--bg-color: #0f172a;
+--stroke-color: #1e293B;
+/*Text*/
+--text-color-primary: #f1f5f9;
+--text-color-secondary: #cbd5e1;
+
+}
+
+body {
+  color: var(--text-color-primary);
+  background-color: var(--bg-color);
+}
