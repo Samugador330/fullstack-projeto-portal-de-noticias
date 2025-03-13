@@ -4,10 +4,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 /*Variaveis*/
 :root{
 
-  /*Colors*/
+/*Colors*/
 --brand-color-dark: #60A5Fa;
 --brand-color-light: #1d4ed8;
 /*Background*/
@@ -25,12 +26,14 @@
 --text: 400 16px/140% var(--font-family);
 --text-sm: 400 14px/160% var(--font-family);
 }
+
 /*Global*/
 body {
   font: var(--text);
   color: var(--text-color-primary);
   background-color: var(--bg-color);
 }
+
 /*Links*/
 a{
   text-decoration: none;
