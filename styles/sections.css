@@ -117,3 +117,15 @@ aside{
     object-fit: contain;
   }
 }
+
+#more{
+  margin-top: 32px;
+  h3{
+    margin-top: 8px;
+  }
+  img {
+    width: 176px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+}
