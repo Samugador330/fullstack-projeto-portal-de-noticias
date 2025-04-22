@@ -1,0 +1,2 @@
+Durante o desenvolvimento deste projeto de portal de notícias, aprofundei meus conhecimentos em HTML e CSS, com foco na criação de uma estrutura organizada e funcional. Além disso, dediquei-me ao estudo aprofundado do sistema GRID, aplicando-o para construir layouts responsivos e bem alinhados, otimizando a experiência do usuário. O projeto foi uma oportunidade valiosa para consolidar habilidades, explorar novas técnicas de design e praticar boas práticas de codificação.
+![Portal de noticias](https://github.com/user-attachments/assets/5ffb99e4-df5e-4fc4-a791-e637d1bdfd35)
